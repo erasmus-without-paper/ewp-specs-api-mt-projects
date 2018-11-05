@@ -45,8 +45,8 @@ A call year (integer) of projects being returned.
 Security
 --------
 
-This version of this API uses [standard EWP Authentication and Security,
-Version 2][sec-v2]. Server implementers choose which security methods they
+This version of this API uses [standard EWP Authentication and Security, Version 2][sec-v2].
+Server implementers choose which security methods they
 support by declaring them in their Manifest API entry.
 
 This API provides data which is also usually accessible to the anonymous public
@@ -82,3 +82,4 @@ information.
 [registry-spec]: https://github.com/erasmus-without-paper/ewp-specs-api-registry
 [error-handling]: https://github.com/erasmus-without-paper/ewp-specs-architecture#error-handling
 [cliauth-none]: https://github.com/erasmus-without-paper/ewp-specs-sec-cliauth-none
+[sec-v2]: https://github.com/erasmus-without-paper/ewp-specs-sec-intro/tree/stable-v2
