@@ -1,5 +1,5 @@
-Mobility Tool+ Projects API
-===========================
+DISCONTINUED - Mobility Tool+ Projects API
+==========================================
 
 * [What is the status of this document?][statuses]
 * [See the index of all other EWP Specifications][develhub]
